@@ -1,7 +1,6 @@
 # Research-15-puzzle
 ## _University project: research of algorithms A*, BFS, DFS used to solve "15 puzzle"_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Puzzle called "15 puzzle" can be solved using path finding algorithms such as BFS, DFS, A*.
 In this project I have implemented all of them and comapred their efficiency in finding the solution to the "15 puzzle".
